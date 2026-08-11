@@ -1,0 +1,73 @@
+[
+  {
+    "area": "routes",
+    "query": "file based route page",
+    "scope": "docs",
+    "expectedId": "docs:getting-started:pages-and-layouts",
+    "expectedRank": 1
+  },
+  {
+    "area": "loaders",
+    "query": "server loader data",
+    "scope": "docs",
+    "expectedId": "docs:getting-started:fetching-data",
+    "expectedRank": 1
+  },
+  {
+    "area": "mvc",
+    "query": "MVC controller",
+    "scope": "docs",
+    "expectedId": "docs:core:mvc",
+    "expectedRank": 1
+  },
+  {
+    "area": "stores",
+    "query": "createStore reactive state",
+    "scope": "api",
+    "filters": { "package": "core" },
+    "expectedId": "api:core:@tavojs/core:createStore",
+    "expectedRank": 1
+  },
+  {
+    "area": "ssr",
+    "query": "SSR hydration",
+    "scope": "docs",
+    "expectedId": "docs:core:ssr-and-hydration",
+    "expectedRank": 1
+  },
+  {
+    "area": "ui-intent",
+    "query": "accessible modal dialog",
+    "scope": "components",
+    "expectedId": "component:dialog",
+    "expectedRank": 1
+  },
+  {
+    "area": "accessibility",
+    "query": "accessible validation field",
+    "scope": "components",
+    "expectedId": "component:field",
+    "expectedRank": 1
+  },
+  {
+    "area": "tokens",
+    "query": "theme background color token",
+    "scope": "tokens",
+    "expectedId": "token:color-bg",
+    "expectedRank": 1
+  },
+  {
+    "area": "cli-automation",
+    "query": "inspect project json protocol",
+    "scope": "docs",
+    "expectedId": "docs:core:cli-automation-protocol",
+    "expectedRank": 1
+  },
+  {
+    "area": "cli-docs",
+    "query": "CLI command reference",
+    "scope": "docs",
+    "expectedId": "docs:cli:commands",
+    "expectedRank": 1
+  }
+]

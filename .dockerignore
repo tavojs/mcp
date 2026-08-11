@@ -1,0 +1,10 @@
+.git
+.github
+.idea
+coverage
+dist
+node_modules
+test-results
+tests
+*.log
+.DS_Store

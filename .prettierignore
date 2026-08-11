@@ -1,0 +1,5 @@
+node_modules
+dist
+src/content/tavo-docs-v1.json
+schemas/tavo-docs-v1.schema.json
+package-lock.json

@@ -1,0 +1,13 @@
+node_modules/
+dist/
+coverage/
+.DS_Store
+*.log
+
+# Local editor and IDE state
+.idea/
+.vscode/
+.fleet/
+*.iml
+*.swp
+*~
