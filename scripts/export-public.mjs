@@ -52,6 +52,7 @@ const publicEntries = [
   ".github/workflows",
   ".gitignore",
   ".prettierignore",
+  "CHANGELOG.md",
   "CONTRIBUTING.md",
   "Dockerfile",
   "LICENSE",
