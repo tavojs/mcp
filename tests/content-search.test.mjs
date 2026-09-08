@@ -7,7 +7,7 @@ test("loads the versioned public manifest and exposes its inventory", async () =
   const store = await ContentStore.load();
   assert.equal(store.manifest.schemaVersion, 1);
   assert.equal(store.manifest.documents.length, 121);
-  assert.equal(store.manifest.components.length, 80);
+  assert.equal(store.manifest.components.length, 85);
   assert.ok(store.apiRecords.length > 100);
   assert.ok(
     store.manifest.sources.every((source) => source.kind !== "product"),

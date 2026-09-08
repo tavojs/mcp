@@ -1,6 +1,6 @@
 {
   "name": "@tavojs/mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Read-only Model Context Protocol server for Tavo.js documentation and project inspection.",
   "type": "module",
   "license": "MIT",
